@@ -101,7 +101,6 @@
     "@aws-amplify/core" "4.3.11"
 
 "@aws-amplify/codegen-ui-new@npm:@aws-amplify/codegen-ui@2.1.0", "@aws-amplify/codegen-ui@2.1.0":
-  name "@aws-amplify/codegen-ui"
   version "2.1.0"
   resolved "https://registry.npmjs.org/@aws-amplify/codegen-ui/-/codegen-ui-2.1.0.tgz#a75eaee407965ea34443e7a00c19115cba263d6a"
   integrity sha512-tWdYt4Vn8Y9CcYQ3eCGWQlPehna5SZATU9dus+t6cEcBQv+sFvBlM59N68B3SxOYAplPltSqdAJphHM+DFWIUQ==
@@ -109,7 +108,6 @@
     yup "^0.32.11"
 
 "@aws-amplify/codegen-ui-old@npm:@aws-amplify/codegen-ui@1.2.0", "@aws-amplify/codegen-ui@1.2.0":
-  name "@aws-amplify/codegen-ui"
   version "1.2.0"
   resolved "https://registry.npmjs.org/@aws-amplify/codegen-ui/-/codegen-ui-1.2.0.tgz#30b865eef7451d7cc8d1ae648f7d95638d9209f4"
   integrity sha512-UKULRKpQG8ABLNjEiLyGoR01PeDli90AbiX/z9RoyVntoyAqWIorYsZcvDh5kb5xhQySU/Rp9cKmZxbJqoxtcQ==
@@ -19648,9 +19646,9 @@ please-upgrade-node@^3.2.0:
     semver-compare "^1.0.0"
 
 plist@^3.0.4:
-  version "3.0.4"
-  resolved "https://registry.npmjs.org/plist/-/plist-3.0.4.tgz#a62df837e3aed2bb3b735899d510c4f186019cbe"
-  integrity sha512-ksrr8y9+nXOxQB2osVNqrgvX/XQPOXaU4BQMKjYq8PvaY1U18mo+fKgBSwzK+luSyinOuPae956lSVcBwxlAMg==
+  version "3.0.5"
+  resolved "https://registry.yarnpkg.com/plist/-/plist-3.0.5.tgz#2cbeb52d10e3cdccccf0c11a63a85d830970a987"
+  integrity sha512-83vX4eYdQp3vP9SxuYgEM/G/pJQqLUz/V/xzPrzruLs7fz7jxGQ1msZ/mg1nwZxUSuOp4sb+/bEIbRrbzZRxDA==
   dependencies:
     base64-js "^1.5.1"
     xmlbuilder "^9.0.7"
